@@ -28,7 +28,7 @@
 # About Me
 - 👋 Hi, I’m Berksu
 - 👀 I’m interested in developing mobile applications, deep learning and muay thai.
-- 💼 I'm working as a System Engineer. 
+- 💼 I'm currrently working as a System Engineer. 
 - 🌱 I’m currently learning Swift, UIKit and SwiftUI.
 - 💻 I have experince about: 
     - CocoaPods, SVM, SnapKit, Kingfisher, Alomafire, Firebase, Moya, Core Data 
