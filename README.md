@@ -23,7 +23,7 @@
 <a href="https://twitter.com/berksu_k"><img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="LinkedIn Badge"></a>
 </p>
 -->
-&nbsp;
+
 
 # About Me
 - 👋 Hi, I’m Berksu
