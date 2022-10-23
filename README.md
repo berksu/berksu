@@ -32,7 +32,7 @@
 - 🌱 I’m currently learning Swift, UIKit and SwiftUI.
 - 💻 I have experince about: 
     - CocoaPods, SVM, SnapKit, Kingfisher, Alomafire, Firebase, Moya, Core Data 
-    - MVC, MVVM and Viper Design Patternd
+    - MVC, MVVM and Viper Design Patterns
     - Reactive Programming, Functional Programming, Object Oriented Programming
     - MSSQL
 
