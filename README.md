@@ -3,7 +3,7 @@
 <img alt="Coder GIF" height=175 width=250 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <p align="center">
-<font size = 6>  iOS Developer </font>
+<font size = 6>  iOS Developer | ML/DL Engineer </font>
 </p>
 
 <p align="center">
