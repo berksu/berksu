@@ -3,7 +3,7 @@
 <img alt="Coder GIF" height=175 width=250 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <p align="center">
-<font size = 6>  iOS Developer | ML/DL Engineer </font>
+<font size = 6> Software Developer | ML/DL Engineer </font>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 <p align="center">
 <a href="https://tr.linkedin.com/in/berksukismet"><img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Badge"></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://tr.linkedin.com/in/berksukismet"><img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="LinkedIn Badge"></a>
+<a href="https://tr.linkedin.com/in/berksukismet"><img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Discord Badge"></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://twitter.com/berksu_k"><img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="LinkedIn Badge"></a>
+<a href="https://twitter.com/berksu_k"><img width="40px" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a>
 </p>
 -->
 
@@ -29,10 +29,11 @@
 - 👋 Hi, I’m Berksu
 - 👀 I’m interested in developing mobile applications, deep learning and muay thai.
 - 💼 I'm currrently working as a System Engineer. 
-- 🌱 I’m currently learning Swift, UIKit and SwiftUI.
-- 💻 I have experince about: 
-    - CocoaPods, SVM, SnapKit, Kingfisher, Alomafire, Firebase, Moya, Core Data 
-    - MVC, MVVM and Viper Design Patterns
+- 🌱 I’m currently learning SwiftUI.
+- 💻 I have experince about:
+    - Python, Tensorflow, Keras, numpy, pandas, scapy
+    - ML and Deep Learning Algorithms
+    - CocoaPods, SnapKit, Kingfisher, Alomafire, Firebase, Moya, Core Data 
     - Reactive Programming, Functional Programming, Object Oriented Programming
     - MSSQL
 
